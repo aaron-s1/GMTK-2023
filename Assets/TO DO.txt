@@ -1,0 +1,17 @@
+
+- Asset tiles
+- Build levels
+- Pathfinding for characters
+
+- Abilities
+    ~ Icons
+    ~ Code -- damage, healing, etc
+    ~ Particle Effects
+
+- UI for characters?
+
+- Control scheme for player
+
+
+
+
