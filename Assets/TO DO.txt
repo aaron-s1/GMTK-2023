@@ -15,4 +15,4 @@
 - Determine player's characters and their order
 
 
-
+- Asset credits.
