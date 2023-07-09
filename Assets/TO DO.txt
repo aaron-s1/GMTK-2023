@@ -12,6 +12,7 @@
 
 - Control scheme for player
 
+- Determine player's characters and their order
 
 
 
